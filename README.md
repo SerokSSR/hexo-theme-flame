@@ -1,6 +1,6 @@
 # hexo-theme-flame
 
-<img alt="Version" src="https://img.shields.io/badge/release-0.1.0(Alpha)-blue"/>
+<img alt="Version" src="https://img.shields.io/badge/release-0.1.1(Alpha)-blue"/>
 
 <a href="https://www.atdawn.tk/"><img alt="Author" src="https://img.shields.io/badge/author-SerokSSR-blur"/></a>
 
