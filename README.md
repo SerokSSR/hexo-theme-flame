@@ -17,7 +17,7 @@ Demo: [Seeker](https://www.atdawn.tk/)
 
 - 基於 `Butterfly 3.0.0 rc1` 版本，~~領先市面上多數魔改~~
 
-- 與 `Butterfly` 新版本完全兼容，可隨時切換
+- 配置文件與 `Butterfly` 新版本完全兼容，可隨時切換主題
 
 - 代碼框形式、高亮、配色優化，採用 tomorrow 高亮主題
 
