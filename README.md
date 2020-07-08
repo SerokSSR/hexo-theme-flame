@@ -11,14 +11,13 @@
 
 Demo: [Seeker](https://www.atdawn.tk/)
 
-在 [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 的基礎上，增加特性、優化細節、並刪去了一些冗餘功能。主要部分仍然與源主題相同。
+在 [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 的基礎上，增加了一些特性、優化了一些細節、並刪去了一些冗餘功能。主要部分仍然與源主題相同。基於 3.0.0 rc 1 版本。
 
 感謝 JerryC 製作的精美主題。
 
 ## 文檔
 
-可查看 [Butterfly Docs](https://demo.jerryc.me/posts/21cfbf15/)
-
+文檔正在製作中，可暫時先查看 [Butterfly Docs](https://demo.jerryc.me/posts/21cfbf15/)。
 
 [ 💬 QQ群 ](https://jq.qq.com/?_wv=1027&k=5KI3Jqb)
 
