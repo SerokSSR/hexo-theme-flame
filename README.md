@@ -17,7 +17,7 @@ Demo: [Seeker](https://www.atdawn.tk/)
 
 ## 文檔
 
-文檔正在製作中，可暫時先查看 [Butterfly Docs](https://demo.jerryc.me/posts/21cfbf15/)。
+文檔正在製作中，可暫時參考 [Butterfly Docs](https://demo.jerryc.me/posts/21cfbf15/)。
 
 [ 💬 QQ群 ](https://jq.qq.com/?_wv=1027&k=5KI3Jqb)
 
