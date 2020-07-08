@@ -11,9 +11,9 @@
 
 Demo: [Seeker](https://www.atdawn.tk/)
 
-在 hexo-theme-butterfly 的基礎上，增加特性、優化細節、並刪去了一些冗餘功能。主要部分仍然與源主題相同。
+在 [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 的基礎上，增加特性、優化細節、並刪去了一些冗餘功能。主要部分仍然與源主題相同。
 
-感謝 @jerryc127 的精美主題。
+感謝 JerryC 製作的精美主題。
 
 ## 文檔
 
