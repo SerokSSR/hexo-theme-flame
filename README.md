@@ -14,7 +14,7 @@
 
 ### Serok's Blog
 
-- On [Vercel(Zeit)](https://kkfive.now.sh/)
+- On [Vercel(Zeit)](https://kkfive.now.sh/) - 国内用户推介
 
 - On [GitHub Pages](https://snow.js.org/)
 
