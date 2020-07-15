@@ -6,15 +6,17 @@
 
 <img alt="Version" src="https://img.shields.io/badge/release-0.1.1(Alpha)-blue"/> <a href="https://www.atdawn.tk/"><img alt="Author" src="https://img.shields.io/badge/author-SerokSSR-blur"/></a>
 
-You can check Demo Site: Serok's Blog.
+在 [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 的基礎上，增加了一些特性、優化了一些細節、並刪去了一些冗餘功能。主要部分仍然與源主題相同。
+
+感謝 JerryC 製作的精美主題。
+
+## Demo Site
+
+### Serok's Blog
 
 - On [Vercel(Zeit)](https://kkfive.now.sh/)
 
 - On [GitHub Pages](https://snow.js.org/)
-
-在 [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 的基礎上，增加了一些特性、優化了一些細節、並刪去了一些冗餘功能。主要部分仍然與源主題相同。
-
-感謝 JerryC 製作的精美主題。
 
 ## 新特性
 
