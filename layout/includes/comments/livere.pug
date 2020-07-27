@@ -1,5 +1,5 @@
-#lv-container(data-id="city" data-uid=theme.livere.uid)
-  script.
+script.
+  function loadLivere () {
     (function(d, s) {
         var j, e = d.getElementsByTagName(s)[0];
         if (typeof LivereTower === 'function') { return; }
@@ -8,3 +8,14 @@
         j.async = true;
         e.parentNode.insertBefore(j, e);
     })(document, 'script');
+  }
+
+  if ('!{theme.comments.use[0]}' === 'Livere' || !!{theme.comments.lazyload}) {
+    if (!{theme.comments.lazyload}) loadComment(document.getElementById('lv-container'), loadLivere)
+    else loadLivere()
+  }
+  else {
+    function loadOtherComment () {
+      loadLivere()
+    }
+  }

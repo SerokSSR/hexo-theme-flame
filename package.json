@@ -1,6 +1,6 @@
 {
   "name": "hexo-theme-flame",
-  "version": "1.0.0",
+  "version": "1.0.0(Dev)",
   "private": true,
   "engines": {
     "node": ">=8.10.0"
