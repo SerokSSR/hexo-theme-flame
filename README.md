@@ -4,7 +4,7 @@
 >
 > \-  _Lolita_
 
-<img alt="Version" src="https://img.shields.io/badge/release-1.0.0(Stable)-blue"/> <a href="https://snow.js.org/"><img alt="Author" src="https://img.shields.io/badge/author-SerokSSR-blur"/></a>
+<img alt="Version" src="https://img.shields.io/badge/release-1.1.0-blue"/> <a href="https://snow.js.org/"><img alt="Author" src="https://img.shields.io/badge/author-SerokSSR-blur"/></a>
 
 在 [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 的基礎上，增加了一些特性、優化了一些細節、並刪去了一些冗餘功能。主要部分仍然與源主題相同。
 
