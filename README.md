@@ -16,23 +16,31 @@
 
 ## New Features
 
-- 基於 `Butterfly 3.0.0-rc2` 版本，~~領先市面上多数魔改~~
+- 基於 `Butterfly 3.0.1` 版本，~~領先市面上多数魔改~~
 - 配置文件与 `Butterfly` 最新版本完全兼容，可隨時切换主題
 - 微調主題配色方案，更適宜沉浸式閱讀
 - 適配 Hexo@5.0.0，**文章渲染速度翻倍**
 - 代碼框形式、高亮、配色優化，採用 tomorrow 高亮主題
-- 頁腳和滚動條样式增强（Powered by Dreamy.TZK）
+- 標籤外掛拓展，頁腳和滚動條样式增强（Powered by Dreamy.TZK）
 - 簡化配置文件，精簡主題功能，加快網站速度
 - 其他細節優化
 
 ## To-do List
 
 - 適配 PRISM 渲染插件
-- toc 外觀美化
+- TOC 外觀美化
 - 更多精彩內容
 
 ## 更新日誌
 
+### 2020.8.16 1.0.0 -> 1.1.0
+ 
+- 修復 PJAX 引發的一些問題
+- 配色方案優化
+- CSS 加載方式優化，Lighthouse 跑分大幅提升
+- 增加標籤外掛：CheckBox & Radio
+- 跟隨 Butterfly 源主題更新至 3.0.1
+ 
 > 2020.8.2 1.0.0(Dev) -> 1.0.0(Stable)
 > 
 > - 修改協議及 package.json
@@ -43,6 +51,14 @@
 > 新功能
 
 ## 文檔咕咕中
+
+### 如果你遇到问题，请先：
+
+1. `hexo clean`
+2. 清浏览器缓存
+3. 查看配置文件的说明
+4. 查看文档
+5. 提 issue
 
 可參考 [Butterfly Docs](https://demo.jerryc.me/posts/21cfbf15/)。
 
