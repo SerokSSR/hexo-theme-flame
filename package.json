@@ -1,9 +1,9 @@
 {
   "name": "hexo-theme-flame",
-  "version": "v1.0.0-stable",
+  "version": "v1.1.0",
   "description": "A Simple and Card UI Design theme for Hexo",
   "main": "package.json",
-  "scripts": {
+  "scripts": { 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
