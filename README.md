@@ -8,8 +8,6 @@
 
 ### \<!\> 由于协议原因，本项目将不再公开新版本。如需索要新版本，请联系 snow.js.org#outlook.com (# -> @)
 
----
-
 在 [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 的基礎上，增加了一些特性、優化了一些細節、並刪去了一些冗餘功能。主要部分仍然與源主題相同。
 
 感謝 [JerryC](https://github.com/jerryc127/) 製作的精美主題。
@@ -36,6 +34,10 @@
 - 更多精彩內容
 
 ## 更新日誌
+
+### 2020.8.25 1.1.0 -> End of Support.
+
+- 由于源主题协议更换成了 Apache 2.0，本项目将不再公开新的版本。
 
 ### 2020.8.16 1.0.0 -> 1.1.0
  
