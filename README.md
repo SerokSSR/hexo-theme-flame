@@ -6,7 +6,7 @@
 
 <img alt="Version" src="https://img.shields.io/badge/release-1.1.0-blue"/> <a href="https://snow.js.org/"><img alt="Author" src="https://img.shields.io/badge/author-SerokSSR-blur"/></a>
 
-### \<!\> 由于 Butterfly 主题原作者更改了开源协议，本项目将不再公开新版本。如需索要新版本，请联系 snow.js.org#outlook.com (# -> @)
+### \<!\> 由于 Butterfly 主题原作者更改了开源协议，本项目将不再公开新版本。
 
 在 [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 的基礎上，增加了一些特性、優化了一些細節、並刪去了一些冗餘功能。主要部分仍然與源主題相同。
 
@@ -14,11 +14,11 @@
 
 ## Demo Site
 
-### [Serok's Blog](https://snow.js.org/)
+### [Serok's Blog](https://akioi.eu.org/)
 
 ## New Features
 
-- 基於 `Butterfly 3.0.1` 版本，~~領先市面上多数魔改~~
+- 基於 `Butterfly 3.0.1` 版本
 - 配置文件与 `Butterfly` 最新版本完全兼容，可隨時切换主題
 - 微調主題配色方案，更適宜沉浸式閱讀
 - 適配 Hexo@5.0.0，**文章渲染速度翻倍**
